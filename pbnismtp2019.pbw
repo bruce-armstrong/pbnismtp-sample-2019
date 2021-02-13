@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "pbnismtpdemo2019.pbt";
+@end;
+DefaultTarget "pbnismtpdemo2019.pbt";
+DefaultExportEncode "UTF-8";
+DefaultRemoteTarget "pbnismtpdemo2019.pbt";
